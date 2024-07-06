@@ -38,9 +38,9 @@ export default function Home() {
             Welcome!
           </h1>
           <p className="font-light text-foreground text-lg">
-            Step into my enchanted portfolio, where magic and creativity
-            collide!
+            Welcome to my enchanted portfolio, where magic and creativity collide! Dive into a world of innovation and inspiration, and explore the unique projects that showcase my passion and skills.
           </p>
+
         </div>
       </div>
 
@@ -52,8 +52,9 @@ export default function Home() {
               sizes="100vw"
               src={profile}
               alt="profile"
-              className=" w-auto h-auto  max-w-100 max-h-150"
+              className="w-auto h-auto max-w-100 max-h-80 rounded-full"
             />
+
           </div>
           <div className="col-span-12 md:col-span-6 lg:col-span-7 flex flex-col justify-center px-0 md:px-6 lg:px-8 items-center">
             <h1 className="font-bold text-4xl md:text-6xl lg:text-8xl text-accent mb-4 ">
@@ -65,7 +66,7 @@ export default function Home() {
             >
               <span>Computer Engineer</span>
               <span>(UG)</span> | Full Stack Developer | Ui/UX Designer |
-              Programmer | DevOps Enthusiast 
+              Programmer | DevOps Enthusiast
             </p>
           </div>
         </div>

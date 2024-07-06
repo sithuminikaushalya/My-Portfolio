@@ -12,21 +12,21 @@ const AboutDetails = () => {
           }
         >
           <h2 className="  text-xl md:text-2xl text-left w-full capitalize">
-            About Me 
+            About Me
           </h2>
           <p className="font-light  text-xs sm:text-sm md:text-base   ">
-          <div>
-  <ul >
-    <li>🌱 Works in Web Application Development (MERN) and AI including Machine Learning, DevOps.</li>
-    <li>🎓 Currently pursuing BSc (Hons) degree in Computer Engineering.</li>
-    <li>🏫 Studies at the Faculty of Engineering, University of Ruhuna, Galle, Sri Lanka.</li>
-    <li>🎯 Learning Cloud Computing, Web Hosting and DevOps </li>
-    <li>📚 Previously studied at Vijayaba National School, Hambantota, Sri Lanka.</li>
-    <li>🏡 Lives in Deraniyagala,Kegalle Sri Lanka.</li>
-    <li>🔍 Interest to take new challenges and share knowledge with others</li>
-  </ul>
-</div></p>
-          
+            <div>
+              <ul >
+                <li>🌱 Works in Web Application Development (MERN) and AI including Machine Learning, DevOps.</li>
+                <li>🎓 Currently pursuing BSc (Hons) degree in Computer Engineering.</li>
+                <li>🏫 Studies at the Faculty of Engineering, University of Ruhuna, Galle, Sri Lanka.</li>
+                <li>🎯 Learning Cloud Computing, Web Hosting and DevOps </li>
+                <li>📚 Previously studied at Vijayaba National School, Hambantota, Sri Lanka.</li>
+                <li>🏡 Lives in Deraniyagala,Kegalle Sri Lanka.</li>
+                <li>🔍 Interest to take new challenges and share knowledge with others</li>
+              </ul>
+            </div></p>
+
         </ItemLayout>
 
         <ItemLayout
@@ -65,7 +65,7 @@ const AboutDetails = () => {
             loading="lazy"
           />
         </ItemLayout>
-        
+
 
         <ItemLayout className={"custom-bg col-span-full"}>
           <img

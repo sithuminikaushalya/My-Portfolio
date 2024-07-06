@@ -1,6 +1,5 @@
 import Image from "next/image";
 import bg from "../../../../public/background/contact-background2.png";
-
 import Form from "@/components/contact/Form";
 import RenderModel from "@/components/RenderModel";
 import { Ball } from "@/components/models/Ball";
@@ -19,14 +18,12 @@ export default function Contact() {
           <h1 className=" text-accent font-semibold text-center text-4xl capitalize">
             Contact Me
           </h1>
-          <p className=" text-center font-light text-sm xs:text-base">
-            Step into the circle of enchantment and weave your words into the
-            fabric of the cosmos. Whether you wish to forge alliances, unravel
-            mysteries, or simply share tales of adventure, your messages are
-            cherished spells in this enchanted realm. Use the form below to send
-            your missives through the ethereal web, and await the whispers of
-            magic in return.
+          <p className="text-center font-light text-sm xs:text-base">
+            <strong>Get in Touch</strong>
+            <br />
+            I'm excited to connect with you! Whether you have questions, feedback, or opportunities, feel free to reach out. I'll get back to you as soon as possible.
           </p>
+
         </div>
         <Form />
 
