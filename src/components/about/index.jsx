@@ -52,7 +52,7 @@ const AboutDetails = () => {
           <img
             className="w-full h-auto"
             src={'https://github-readme-stats.vercel.app/api/top-langs??username=sithuminikaushalya&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false'}
-            alt="CodeBucks"
+            alt="sithumini"
             loading="lazy"
           />
         </ItemLayout>
@@ -61,7 +61,7 @@ const AboutDetails = () => {
           <img
             className="w-full h-auto"
             src={`https://github-readme-stats.vercel.app/api?username=sithuminikaushalya&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false`}
-            alt="CodeBucks"
+            alt="sithumini"
             loading="lazy"
           />
         </ItemLayout>
@@ -71,7 +71,7 @@ const AboutDetails = () => {
           <img
             className="w-full h-auto"
             src={`https://skillicons.dev/icons?i=c,cpp,cs,js,py,java,html,css,bootstrap,react,nodejs,express,flask,androidstudio,flutter,firebase,figma,kotlin,mongodb,mysql,anaconda,aws,github,git,pytorch,sklearn,tailwind,tensorflow,vscode`}
-            alt="CodeBucks"
+            alt="sithumini"
             loading="lazy"
           />
         </ItemLayout>
@@ -80,12 +80,12 @@ const AboutDetails = () => {
           <img
             className="w-full h-auto"
             src={`http://github-readme-streak-stats.herokuapp.com?user=sithuminikaushalya&theme=dark&hide_border=true&type=svg&background=EB545400&ring=FEFE5B&currStreakLabel=FEFE5B`}
-            alt="CodeBucks"
+            alt="sithumini"
             loading="lazy"
           />
         </ItemLayout>
 
-        <ItemLayout className={"custom-bg col-span-full md:col-span-6 !p-0"}>
+        {/* <ItemLayout className={"custom-bg col-span-full md:col-span-6 !p-0"}>
           <Link
             href="https://github.com/sithuminikaushalya/Plant-Disease-Detecting-Project"
             target="_blank"
@@ -94,11 +94,11 @@ const AboutDetails = () => {
             <img
               className="w-full h-auto"
               src={`https://github-readme-stats.vercel.app/api/pin/?username=sithuminikaushalya&repo=Plant-Disease-Detecting-Project&theme=transparent&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&description_lines_count=2`}
-              alt="CodeBucks"
+              alt="sithumini"
               loading="lazy"
             />
           </Link>
-        </ItemLayout>
+        </ItemLayout> */}
       </div>
     </section>
   );
