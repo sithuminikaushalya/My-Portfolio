@@ -21,9 +21,8 @@ export default function Contact() {
           <p className="text-center font-light text-sm xs:text-base">
             <strong>Get in Touch</strong>
             <br />
-            I'm excited to connect with you! Whether you have questions, feedback, or opportunities, feel free to reach out. I'll get back to you as soon as possible.
+            I&apos;m excited to connect with you! Whether you have questions, feedback, or opportunities, feel free to reach out. I&apos;ll get back to you as soon as possible.
           </p>
-
         </div>
         <Form />
 
