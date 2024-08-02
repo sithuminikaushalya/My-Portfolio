@@ -21,7 +21,7 @@ const AboutDetails = () => {
                 <li>🎓 Currently pursuing BSc (Hons) degree in Computer Engineering.</li>
                 <li>🏫 Studies at the Faculty of Engineering, University of Ruhuna, Galle, Sri Lanka.</li>
                 <li>🎯 Learning Cloud Computing, Web Hosting and DevOps </li>
-                <li>📚 Previously studied at Vijayaba National School, Hambantota, Sri Lanka.</li>
+                <li>📚 Previously studied at Eheliyagoda Central Colleage,Eheliyagoda, Sri Lanka.</li>
                 <li>🏡 Lives in Deraniyagala,Kegalle Sri Lanka.</li>
                 <li>🔍 Interest to take new challenges and share knowledge with others</li>
               </ul>
